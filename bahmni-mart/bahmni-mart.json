@@ -154,12 +154,7 @@
     },
     {
       "name": "Bacteriology Data",
-      "type": "bacteriology",
-      "incrementalUpdateConfig": {
-        "updateOn": "encounter_id",
-        "eventCategory": "Encounter",
-        "openmrsTableName": "encounter"
-      }
+      "type": "bacteriology"
     },
     {
       "name": "MetaData Dictionary",
